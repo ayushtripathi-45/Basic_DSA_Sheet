@@ -26,7 +26,7 @@
 |  # |       Topic     |   Language  |     Status  |
 |----|-----------------|-------------|-------------|
 | 01 | Basic Array     | Python, C++ | ✅ Progress |
-| 02 | Basic String    | Python, C++ | 🔒 Upcoming |
+| 02 | Basic String    | Python, C++ | ✅ Progress |
 | 03 | Basic Recursion | Python, C++ | 🔒 Upcoming |
 | 04 | Math & Numbers  | Python, C++ | 🔒 Upcoming |
 | 05 | Searching       | Python, C++ | 🔒 Upcoming |
