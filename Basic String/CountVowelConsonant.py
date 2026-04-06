@@ -6,7 +6,7 @@ def count_vowels_consonants(s):
 
     for char in s:
         if char in vowels:
-            vowel_count += 1
+            vowel_count += 1 
         elif char.isalpha():
             consonant_count += 1
         else:
