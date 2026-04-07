@@ -25,10 +25,10 @@
 
 |  # |       Topic     |   Language  |     Status  |
 |----|-----------------|-------------|-------------|
-| 01 | Basic Array     | Python, C++ | ✅ Progress |
-| 02 | Basic String    | Python, C++ | ✅ Progress |
+| 01 | Basic Array     | Python, C++ | ✅ Done (Python) |
+| 02 | Basic String    | Python, C++ | ✅ Done (Python) |
 | 03 | Basic Recursion | Python, C++ | 🔒 Upcoming |
-| 04 | Math & Numbers  | Python, C++ | 🔒 Upcoming |
+| 04 | Math & Numbers  | Python, C++ | ✅ In Progress |
 | 05 | Searching       | Python, C++ | 🔒 Upcoming |
 | 06 | Sorting         | Python, C++ | 🔒 Upcoming |
 
@@ -37,7 +37,7 @@
 ## ⚡ Tech Stack
 
 - 🐍 **Python** — Clean & beginner-friendly solutions
-- ⚙️ **C++** — Optimized & competitive programming style
+- Future Enhancement : ⚙️ **C++** — Optimized & competitive programming style
 
 ---
 
