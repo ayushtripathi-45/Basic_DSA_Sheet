@@ -4,13 +4,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Master+Data+Structures+%26+Algorithms;One+Problem+at+a+Time+💡;Consistency+Beats+Motivation+🔥" />
 
----
-
-### 🧠 *Consistency over perfection — one problem at a time.*
+ > *🧠Consistency over perfection — one problem at a time.*
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -124,16 +122,14 @@ GitHub
 
 ---
 
+
 # 📈 Repository Stats
 
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/ayushtripathi-45/basic_dsa_sheet?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ayushtripathi-45/basic_dsa_sheet?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/ayushtripathi-45/basic_dsa_sheet)
-![GitHub last commit](https://img.shields.io/github/last-commit/ayushtripathi-45/basic_dsa_sheet)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ayushtripathi-45/basic_dsa_sheet?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/forks/ayushtripathi-45/basic_dsa_sheet?style=for-the-badge&color=purple" />
+  <img src="https://img.shields.io/github/last-commit/ayushtripathi-45/basic_dsa_sheet?style=for-the-badge&color=red" />
+</p>
 
 ---
 
