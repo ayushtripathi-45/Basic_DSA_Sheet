@@ -168,5 +168,3 @@ If this repository helps you:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
 
 </div>
-
-</p>
