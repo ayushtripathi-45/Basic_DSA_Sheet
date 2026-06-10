@@ -27,10 +27,12 @@
 |----|-----------------|-------------|-------------|
 | 01 | Basic Array     | Python, C++ | ✅ Done (Python) |
 | 02 | Basic String    | Python, C++ | ✅ Done (Python) |
-| 03 | Basic Recursion | Python, C++ | 🔒 Upcoming |
+| 03 | Basic Recursion | Python, C++ | ✅ Done (Python) |
 | 04 | Math & Numbers  | Python, C++ | ✅ Done (Python) |
 | 05 | Searching       | Python, C++ | ✅ Done (Python) |
 | 06 | Sorting         | Python, C++ | ✅ Done (Python) |
+| 07 | Hashing         | Python, C++ | In Progress |
+| 08 | Two Pointers & Sliding Window         | Python, C++ | In Progress |
 
 ---
 
