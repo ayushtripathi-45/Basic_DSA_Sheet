@@ -29,7 +29,7 @@
 | 02 | Basic String    | Python, C++ | ✅ Done (Python) |
 | 03 | Basic Recursion | Python, C++ | 🔒 Upcoming |
 | 04 | Math & Numbers  | Python, C++ | ✅ Done (Python) |
-| 05 | Searching       | Python, C++ | 🔒 Upcoming |
+| 05 | Searching       | Python, C++ | ✅ Done (Python) |
 | 06 | Sorting         | Python, C++ | ✅ Done (Python) |
 
 ---
