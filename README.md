@@ -128,7 +128,7 @@ GitHub
 <p align="center">
   <img src="https://img.shields.io/github/stars/ayushtripathi-45/basic_dsa_sheet?style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/forks/ayushtripathi-45/basic_dsa_sheet?style=for-the-badge&color=purple" />
-  <img src="https://img.shields.io/github/last-commit/ayushtripathi-45/basic_dsa_sheet?style=for-the-badge&color=red" />
+  <img src="https://img.shields.io/github/last-commit/ayushtripathi-45/basic_dsa_sheet?style=for-the-badge&color=brightgreen" />
 </p>
 
 ---
