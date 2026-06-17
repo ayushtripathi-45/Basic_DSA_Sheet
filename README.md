@@ -17,6 +17,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Practice-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Build](https://img.shields.io/github/actions/workflow/status/ayushtripathi-45/Basic_DSA_Sheet/ci.yml?branch=main\&label=build\&style=for-the-badge)
+![Coverage](https://img.shields.io/badge/Coverage-0%25-informational?style=for-the-badge)
 
 </div>
 
