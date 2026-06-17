@@ -1,3 +1,21 @@
+# <div align="center">🚀 Basic DSA Problems List</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Master+Data+Structures+%26+Algorithms;One+Problem+at+a+Time+💡;Consistency+Beats+Motivation+🔥" />
+
+ > *🧠Consistency over perfection — one problem at a time.* 
+
+</div>
+
+
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=darkgreen)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=darkblue)
+
+
 # Basic Array
 - `Left Rotate by 1.py`
 - `Min Max.py`
